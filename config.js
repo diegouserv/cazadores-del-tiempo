@@ -1,5 +1,5 @@
 window.CAZADORES_CONFIG = {
-  url: 'https://ecqqmtmtkatobafjdxib.supabase.co',
-  key: 'sb_publishable_k3qhz3mSQ_g1j5pWh0m-Uw_gNCsBOQl',
+  url: 'https://nqbfpmamkjypbouojzsj.supabase.co',
+  key: 'sb_publishable_-vbHDpJY7SfkcVPnN18isA_lJvRyKD5',
   pollMilliseconds: 3000
 };
